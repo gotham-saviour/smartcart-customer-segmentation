@@ -81,3 +81,4 @@ if __name__ == "__main__":
         args.data = "smartcart_customers.csv"
 
     run_pipeline(args.data, args.out)
+

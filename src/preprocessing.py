@@ -105,3 +105,4 @@ class SmartCartPreprocessor:
         self.fitted = True
 
         return X_scaled, df_cleaned
+

@@ -236,3 +236,4 @@ jupyter notebook notebooks/smartcart_customer_segmentation.ipynb
 
 ## 📜 License
 This project is licensed under the terms of the [MIT License](LICENSE).
+
